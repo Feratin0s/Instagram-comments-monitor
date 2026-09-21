@@ -26,8 +26,8 @@ Instagram-reactions-monitor/
 ## Requisitos
 
 - Python 3.10+
-- Google Chrome instalado e logado no Instagram (preferencialmente via Flatpak no Linux)
-- Linux (testado no Kali)
+- Google Chrome instalado e logado no Instagram
+- Linux (testado no Kali) ou Windows
 
 ## Instalação
 
