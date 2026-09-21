@@ -1,4 +1,4 @@
-# Instagram Reactions Monitor
+# Instagram Comments Monitor
 
 Ferramenta CLI para coletar comentários e respostas de posts e reels do Instagram usando a sessão autenticada do seu navegador Chrome.
 
