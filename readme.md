@@ -120,10 +120,16 @@ browser-cookie3
 
 **## Configuração da sessão do Instagram**
 
-Antes de executar o programa, é necessário criar o arquivo:
+Antes de executar o programa, é necessário renomear o arquivo:
 
 ```text
 cookies_instagram.txt
+```
+
+Para: 
+
+```text
+cookies_instagram.json
 ```
 
 Esse arquivo deve conter os cookies da sua sessão autenticada do Instagram no seguinte formato:
@@ -153,7 +159,8 @@ https://www.instagram.com
    * `sessionid`
    * `csrftoken`
    * `ds_user_id`
-7. Copie o valor de cada cookie para o `cookies_instagram.txt`.
+
+7. Copie o valor de cada cookie para o `cookies_instagram.json`.
 
 Por exemplo:
 
@@ -167,14 +174,7 @@ Por exemplo:
 
 Depois de preencher o arquivo, o programa pode ser executado normalmente.
 
-> **⚠️ IMPORTANTE:** esses valores são credenciais da sua sessão do Instagram. **Nunca compartilhe o conteúdo do `cookies_instagram.txt`**, publique esses valores no GitHub ou envie para outra pessoa.
-
-Adicione o arquivo ao `.gitignore`:
-
-```gitignore
-cookies_instagram.txt
-venv/
-```
+> **⚠️ IMPORTANTE:** esses valores são credenciais da sua sessão do Instagram. **Nunca compartilhe o conteúdo do `cookies_instagram.json`**, publique esses valores no GitHub ou envie para outra pessoa.
 
 **## Uso**
 
