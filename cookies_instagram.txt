@@ -1,0 +1,5 @@
+{
+  "sessionid": "COLE_AQUI",
+  "csrftoken": "COLE_AQUI",
+  "ds_user_id": "COLE_AQUI"
+}

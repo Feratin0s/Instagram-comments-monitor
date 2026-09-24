@@ -24,6 +24,6 @@ dist/
 build/
 *.egg-info/
 
-posts/*
+posts/*.csv
 
 *.json
